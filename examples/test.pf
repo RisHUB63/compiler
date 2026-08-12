@@ -1,0 +1,18 @@
+let x = 9;
+let a = "Rishabh";
+
+let c = 10;
+
+if(x > 10){
+    print(x);
+}
+
+print(a);
+
+if(c > x){
+    print("Greater");
+}
+
+print(a);
+print(x);
+print(c);
